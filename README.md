@@ -1,3 +1,3 @@
 # newsooccsocks
 
-soocc's socks 3.0
+sam's website 3.0
