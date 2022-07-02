@@ -2,6 +2,8 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* Navbar */
+
 nav {
   width: 100%;
   float: left;
@@ -15,4 +17,10 @@ nav {
 
 .menu li {
   display: inline;
+}
+
+/* Padding */
+
+.p-2 {
+  padding: 0.5rem;
 }
