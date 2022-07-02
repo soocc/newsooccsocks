@@ -19,13 +19,30 @@ body {
   margin-left: 5%;
 }
 
-/* Font styles */
+/* Colors */
 
 .c-white {
   color: white;
 }
 
 /* Home - Index.html */
+
+.bg-index {
+  background: linear-gradient(270deg, #001025, #ad7100, #002963, #000000);
+  background-size: 800% 800%;
+  animation: anim-background-gradient 30s ease infinite;
+}
+
+@keyframes anim-background-gradient { 
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+.anim-typewriter {
+  animation: typewriter 2s steps(14) 0.5s 1 normal both,
+             anim-blink-text-cursor 500ms steps(14) infinite normal;
+}
 
 @keyframes typewriter {
   from{width: 0;}
@@ -35,11 +52,6 @@ body {
 @keyframes anim-blink-text-cursor {
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
-}
-
-.anim-typewriter {
-  animation: typewriter 2s steps(14) 0.5s 1 normal both,
-             anim-blink-text-cursor 500ms steps(14) infinite normal;
 }
 
 #hi-im-soocc {
