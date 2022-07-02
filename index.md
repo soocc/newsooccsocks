@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-<div class="m-global c-white">
+<div class="m-global c-white anim-typewriter">
   <h1 id="hi-im-soocc">Hi, I'm soocc!</h1>
   <p>WHAD'UP PARTY PEOPLE, I'm a software developer based in 🇭🇰 Hong Kong.</p>
 
