@@ -22,7 +22,11 @@ nav {
 /* Padding and Margins */
 
 .m-global {
-  margin-left: 5%
+  margin: 10% auto auto 5%
 }
 
-/* Float */
+/* Font size */
+
+.fs-15 {
+  font-size: 15%
+}
