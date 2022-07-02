@@ -35,13 +35,15 @@ a {
 
 .menu li {
   display: inline;
+  margin-top: 10px;
   padding-right: 30px;
   text-decoration: none;
-  transition: opacity 100ms ease-out;
+  transition: opacity 100ms ease-out, margin-top 100ms ease-out;
 }
 
 .menu li:hover {
   opacity: 70%;
+  margin-top: 7px;
 }
 
 /* Padding and Margins */
