@@ -28,5 +28,6 @@ nav {
 /* Font size */
 
 .fs-150 {
-  font-size: 150px
+  font-size: 150px;
+  margin: 0;
 }
