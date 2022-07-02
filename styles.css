@@ -29,13 +29,12 @@ a {
 /* Navbar */
 
 .menu {
-  height: 21px;
+  height: 50px;
   padding-left: 0;
 }
 
 .menu li {
   display: inline;
-  margin-top: 10px;
   padding-right: 30px;
   text-decoration: none;
   transition: opacity 100ms ease-out, margin-top 100ms ease-out;
@@ -43,7 +42,6 @@ a {
 
 .menu li:hover {
   opacity: 70%;
-  margin-top: 7px;
 }
 
 /* Padding and Margins */
