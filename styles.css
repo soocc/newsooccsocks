@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Navbar */
 
 .menu {
@@ -69,6 +73,5 @@ body {
 
 #gold-link {
   color: gold;
-  text-decoration: none;
 }
   
