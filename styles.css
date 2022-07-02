@@ -21,8 +21,29 @@ body {
 
 /* Home - Index.html */
 
+.anim-typewriter {
+  animation: typewriter 2s steps(14) 0.5s 1 normal both,
+             blinkTextCursor 500ms steps(14) infinite normal;
+}
+
+@keyframes typewriter {
+  from{width: 0;}
+  to{width: 7.75em;}
+}
+
+@keyframes anim-blink-text-cursor {
+  from{border-right-color: rgba(255,255,255,.75);}
+  to{border-right-color: transparent;}
+}
+
 #hi-im-soocc {
-  font-size: 120px;
-  margin-top: 10%;
+  font-size: 90px;
+  width: 24em;
+  margin-top: 12%;
   margin-bottom: 0;
+  font-family: 'Anonymous Pro', monospace;
+  border-right: 2px solid rgba(255,255,255,.75);
+  white-space: nowrap;
+  overflow: hidden;
+  transform: tranlateY(-50%);
 }
