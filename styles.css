@@ -19,8 +19,10 @@ nav {
   display: inline;
 }
 
-/* Padding */
+/* Padding and Margins */
 
-.p-2 {
-  padding: 0.5rem;
+.m-global {
+  margin-left: 5%
 }
+
+/* Float */
