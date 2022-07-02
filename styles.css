@@ -7,7 +7,6 @@ body {
 nav {
   width: 100%;
   float: left;
-  background-color: lightblue;
 }
 
 .menu {
@@ -25,9 +24,9 @@ nav {
   margin-left: 5%;
 }
 
-/* Font size */
+/* Home - Index.html */
 
-.fs-150 {
+#hi-im-soocc {
   font-size: 150px;
-  margin: 0;
+  margin-top: 10%;
 }
