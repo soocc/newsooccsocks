@@ -34,7 +34,7 @@ a {
 
 .menu li {
   display: inline;
-  padding-right: 10%;
+  padding-right: 10px;
   text-decoration: none;
 }
 
