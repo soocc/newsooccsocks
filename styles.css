@@ -23,7 +23,7 @@ a {
 
 .btn:hover {
   margin-top: 37px;
-  opacity: 70%
+  opacity: 70%;
 }
 
 /* Navbar */
@@ -37,6 +37,11 @@ a {
   display: inline;
   padding-right: 30px;
   text-decoration: none;
+  transition: opacity 100ms ease-out;
+}
+
+.menu li:hover {
+  opacity: 70%;
 }
 
 /* Padding and Margins */
