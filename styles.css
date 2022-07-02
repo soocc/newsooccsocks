@@ -30,6 +30,7 @@ a {
 
 .menu {
   height: 21px;
+  padding-left: 0;
 }
 
 .menu li {
