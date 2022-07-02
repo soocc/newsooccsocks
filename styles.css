@@ -21,7 +21,7 @@ a {
 /* Padding and Margins */
 
 .m-global {
-  margin-left: 5%;
+  margin-left: 10%;
 }
 
 /* Colors */
@@ -66,7 +66,7 @@ a {
 #hi-im-soocc {
   font-size: 90px;
   width: 24em;
-  margin-top: 12%;
+  margin-top: 15%;
   margin-bottom: 0;
   font-family: 'Anonymous Pro', monospace;
   border-right: 2px solid rgba(255,255,255,.75);
