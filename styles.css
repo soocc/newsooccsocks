@@ -29,12 +29,12 @@ a {
 /* Navbar */
 
 .menu {
-  padding-left: 10%;
   height: 21px;
 }
 
 .menu li {
   display: inline;
+  padding-right: 10%;
   text-decoration: none;
 }
 
