@@ -15,6 +15,7 @@ a {
 
 .menu li {
   display: inline;
+  color: black;
   text-decoration: none;
 }
 
