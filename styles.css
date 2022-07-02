@@ -11,6 +11,7 @@ body {
 
 .menu li {
   display: inline;
+  text-decoration: none;
 }
 
 /* Padding and Margins */
