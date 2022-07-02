@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="m-global c-white">
-  <h1 id="hi-im-soocc">Hi, I'm Samuel!</h1>
+  <h1 id="hi-im-soocc">Hi, I'm soocc!</h1>
   <p>WHAD'UP PARTY BOYS, I'm a software developer based in 🇭🇰 Hong Kong.</p>
 
   <a id="gold-link" href="about">About ></a>
