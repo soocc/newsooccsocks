@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h1 id="hi-im-soocc" class="anim-typewriter">Hi, I'm soocc!</h1>
-<p>**WHAD'UP PARTY PEOPLE**, I'm a **software developer** based in 🇭🇰 Hong Kong.</p>
+<p markdown="1">**WHAD'UP PARTY PEOPLE**, I'm a **software developer** based in 🇭🇰 Hong Kong.</p>
 
 <a id="gold-link" href="about">Learn more ></a>
 
