@@ -68,7 +68,7 @@ a {
 /* Home - Index.html */
 
 .bg-gradient {
-  background: linear-gradient(270deg, #001025, #ad7100, #002963, #000000);
+  background: linear-gradient(270deg, #001025, #002963, #000000);
   background-size: 800% 800%;
   animation: anim-background-gradient 30s ease infinite;
 }
