@@ -8,5 +8,5 @@ title: Home
 
 <a id="gold-link" href="about">Learn more ></a>
 
-<a id="discord-btn" class="btn09 deco-none" href="https://discord.gg/72UPzkfxXM">Discord Server</a>
+<a id="discord-btn" class="btn deco-none" href="https://discord.gg/72UPzkfxXM">Discord Server</a>
 <a id="youtube-btn" class="btn deco-none" href="https://youtube.com/sooccc">Youtube Channel</a>
