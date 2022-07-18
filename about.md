@@ -8,9 +8,7 @@ title: About
 ## Hi, my name's Samuel!
 
 ## Live subscriber count
-<div>
-  <iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCaO5k5qvFP-w4cZX2u_LNWw style="border: 0; width:300px; height:80px;"></iframe>
-</div>
+<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCaO5k5qvFP-w4cZX2u_LNWw style="border: 0; width:300px; height:80px;"></iframe>
 
 ## Socials
 Email: soocc@soocc.dev
