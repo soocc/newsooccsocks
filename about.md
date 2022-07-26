@@ -12,7 +12,7 @@ Email: soocc@soocc.dev
 
 [Discord](https://discord.com/users/616294132973043767)
 [Youtube](https://youtube.com/sooccc)
-[Instagram](https://instagram.com/sooccsucc)
+[Instagram](https://instagram.com/soocccoffee)
 [Twitter](https://twitter.com/sooccsucc)
 [Reddit](https://reddit.com/user/soocc)
 
