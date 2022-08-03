@@ -15,4 +15,6 @@ Email: soocc@soocc.dev
 <a class="btn m-2" href="twitter.com/sooccsucc">Twitter</a>
 <a class="btn m-2" href="https://reddit.com/user/soocc">Reddit</a>
 
+<br>
+
 Website hosted by: [Github Pages](https://github.com/soocc/newsooccsocks)
