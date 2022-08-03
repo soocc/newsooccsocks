@@ -52,6 +52,9 @@ a {
   margin-left: 10%;
 }
 
+.m-2 {
+  margin-left: 2%;
+
 /* Decoration */
 
 .c-white {
@@ -117,7 +120,6 @@ a {
 }
 
 #youtube-btn {
-  margin-left: 2%;
   background-color: tomato;
   color: white;
 }
