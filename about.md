@@ -10,10 +10,9 @@ title: About
 ## Socials
 Email: soocc@soocc.dev
 
-[Discord](https://discord.com/users/616294132973043767)
-[Youtube](https://youtube.com/sooccc)
-[Instagram](https://instagram.com/soocccoffee)
-[Twitter](https://twitter.com/sooccsucc)
-[Reddit](https://reddit.com/user/soocc)
+<a class="btn" href=https://youtube.com/sooccc>Youtube</a>
+<a class="btn" href=https://instagram.com/sooccsippy>Instagram</a>
+<a class="btn" href=twitter.com/sooccsucc>Twitter</a>
+<a class="btn" href=https://reddit.com/user/soocc>Reddit</a>
 
 Website hosted by: [Github Pages](https://github.com/soocc/newsooccsocks)
