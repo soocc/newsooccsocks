@@ -7,4 +7,4 @@ title: Home
 <p markdown="1">I'm a **software developer** and **content creator** based in 🇭🇰 Hong Kong.</p>
 
 <a id="discord-btn" class="btn" href="https://discord.gg/72UPzkfxXM">Discord</a>
-<a id="youtube-btn" class="btn" href="https://youtube.com/sooccc">Youtube</a>
+<a id="youtube-btn" class="btn m-2" href="https://youtube.com/sooccc">Youtube</a>
