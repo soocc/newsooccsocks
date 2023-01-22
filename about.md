@@ -7,6 +7,8 @@ title: About
 
 Hi, my name's Samuel! I'm an aspiring software developer.
 
+<br>
+
 ## Socials
 Email: soocc@soocc.dev
 
