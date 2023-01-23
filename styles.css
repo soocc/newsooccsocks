@@ -72,6 +72,12 @@ a {
 
 /* Home - Index.html */
 
+.bg-photo {
+  background: images/photo;
+  height: auto;
+  max-width: 100%;
+}
+
 .bg-gradient {
   background: linear-gradient(270deg, #001025, #002963, #000000);
   background-size: 800% 800%;
