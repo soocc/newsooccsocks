@@ -73,9 +73,8 @@ a {
 /* Home - Index.html */
 
 .bg-photo {
-  background: url("images/photo.png");
-  height: auto;
-  max-width: 100%;
+  background-image: url("images/photo.png");
+  background-size: 100% 100%;
 }
 
 .bg-gradient {
