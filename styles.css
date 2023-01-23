@@ -73,7 +73,7 @@ a {
 /* Home - Index.html */
 
 .bg-photo {
-  background: images/photo;
+  background: url("images/photo.png");
   height: auto;
   max-width: 100%;
 }
