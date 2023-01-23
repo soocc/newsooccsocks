@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <link rel="icon" type="image/x-icon" href="soocc.png">
+  <link rel="icon" type="image/x-icon" href="images/soocc.png">
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com"> 
@@ -14,14 +14,16 @@
   <!-- CSS -->
   <link rel="stylesheet" href="styles.css"/>
 </head>
-<body class="m-global c-white" background=images/photo.png>
-  <nav>
-    <ul class="menu">
-      <li><a class="c-white deco-none" href="index">Home</a></li>
-      <li><a class="c-white deco-none" href="about">About</a></li>
-      <li><a class="c-white deco-none" href="contact">Contact</a></li>
-    </ul>
-  </nav>
-  {{ content }}
+<body class="m-global c-white">
+  <div class="bg-photo">
+    <nav>
+      <ul class="menu">
+        <li><a class="c-white deco-none" href="index">Home</a></li>
+        <li><a class="c-white deco-none" href="about">About</a></li>
+        <li><a class="c-white deco-none" href="contact">Contact</a></li>
+      </ul>
+    </nav>
+    {{ content }}
+  </div>
 </body>
 </html>
