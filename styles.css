@@ -72,10 +72,10 @@ a {
 
 /* Home - Index.html */
 
-.bg-photo {
+.index-bg {
   width: 100%;
   height: 720px;
-  background-image: url("images/photo.png");
+  background-image: url("images/index_background.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
