@@ -123,13 +123,6 @@ a {
 
 /* Download - Download.html */
 
-.download-bg {
-  width: 100%;
-  height: 720px;
-  background-image: url("images/download_background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 #download-btn {
   background-color: royalblue;
