@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact
+---
+
 I prefer to be contacted on Discord, but you can also try out email or instagram!
 
 Discord: soocc#0690
