@@ -136,3 +136,7 @@ a {
   color: white;
 }
 
+#downloadraw-btn {
+  background-color: tomato;
+  color: white;
+}
