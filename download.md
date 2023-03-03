@@ -1,5 +1,5 @@
 ---
-layout: download
+layout: default
 title: Download
 ---
 
