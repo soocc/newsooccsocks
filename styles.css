@@ -75,29 +75,6 @@ a {
 
 /* Home - Index.html */
 
-.grainy-bg {
-  width: 100%;
-  height: 720px;
-  background-image: url("images/grainy_bg.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.anim-typewriter {
-  animation: typewriter 2s steps(14) 0.5s 1 normal both,
-             anim-blink-text-cursor 500ms steps(14) infinite normal;
-}
-
-@keyframes typewriter {
-  from{width: 0;}
-  to{width: 7.75em;}
-}
-
-@keyframes anim-blink-text-cursor {
-  from{border-right-color: rgba(255,255,255,.75);}
-  to{border-right-color: transparent;}
-}
-
 #hi-im-soocc {
   font-size: 90px;
   width: 24em;
@@ -127,26 +104,6 @@ a {
 }
 
 */
-
-/* Download - Download.html */
-
-.download-bg {
-  width: 100%;
-  height: 720px;
-  background-image: url("images/download_background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-#download-btn {
-  background-color: royalblue;
-  color: white;
-}
-
-#downloadraw-btn {
-  background-color: tomato;
-  color: white;
-}
 
 /* Default - Default.html */
 
