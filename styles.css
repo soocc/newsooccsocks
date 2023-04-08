@@ -140,3 +140,19 @@ a {
   background-color: tomato;
   color: white;
 }
+
+/* Default - Default.html */
+
+.container{
+  margin: 0 auto;
+  display: flex;
+  width: 100%;
+  min-height: 33vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.noise{
+  background: rgb(137, 203, 244);
+  background-image: url(/images/noise.png);
+}
