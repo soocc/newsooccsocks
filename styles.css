@@ -144,7 +144,6 @@ a {
 /* Default - Default.html */
 
 .container{
-  position: absolute;
   margin: 0 auto;
   display: flex;
   width: 100%;
@@ -154,6 +153,7 @@ a {
 }
 
 .noise{
+  position: absolute;
   background: rgb(137, 203, 244);
   background-image: url(/images/noise.png);
 }
