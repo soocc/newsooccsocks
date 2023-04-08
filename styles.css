@@ -40,6 +40,10 @@ a {
 
 .menu li {
   display: inline;
+  font-size: 20px;
+  border-radius: 10px 10px 10px 10px;
+  border-style: solid;
+  border-width: thin;
   padding-right: 30px;
   transition: opacity 100ms ease-out, margin-top 100ms ease-out;
 }
