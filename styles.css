@@ -2,7 +2,6 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  width: 70%;
 }
 
 a {
@@ -82,9 +81,6 @@ a {
   margin-bottom: 0;
   font-family: 'Anonymous Pro', monospace;
   border-right: 2px solid rgba(255,255,255,.75);
-  white-space: nowrap;
-  overflow: hidden;
-  transform: tranlateY(-50%);
 }
 
 /*
