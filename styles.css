@@ -63,7 +63,7 @@ a {
   box-sizing: border-box;
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: 10%+80px;
+  padding-top: calc(10%+80px);
 }
 
 .m-2 {
