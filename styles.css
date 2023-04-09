@@ -108,8 +108,8 @@ a {
   min-height: 33vh;
 }
 
-.noise{
+.grain{
   /*background: rgb(137, 203, 244);*/
-  background: rgb(176, 176, 176);
-  background-image: url(/assets/noise.png);
+  background: rgb(110, 162, 194);
+  background-image: url(/assets/grain.png);
 }
