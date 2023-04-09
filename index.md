@@ -8,5 +8,5 @@ title: Home
 <a class="deco-none" id="quick-link" href="about">About ></a>
 <a class="deco-none m-2" id="quick-link" href="contact">Contact ></a>
 
-<a class="btn" href="https://discord.gg/72UPzkfxXM">Discord</a>
-<a class="btn m-2" href="https://youtube.com/sooccc">Youtube</a>
+<a class="btn" href="https://discord.gg/72UPzkfxXM">DISCORD</a>
+<a class="btn m-2" href="https://youtube.com/sooccc">YOUTUBE</a>
