@@ -11,12 +11,16 @@ title: Art playground
 -->
 
 
-<div class="dog">
-  <div class="eyes"></div>
-  <div class="hands"></div>
-  <div class="left-hand"></div>
-  <div class="right-hand"></div>
-  <div class="legs"></div>
+<div class="canvas">
+  <div class="circle">
+    <div class="dog">
+      <div class="eyes"></div>
+      <div class="hands"></div>
+      <div class="left-hand"></div>
+      <div class="right-hand"></div>
+      <div class="legs"></div>
+    </div>
+  </div>
 </div>
 
 <style>
@@ -24,9 +28,9 @@ title: Art playground
   margin: 0;
   padding: 0;
 }
-/*
+
 .canvas {
-  background: darkgray;
+  background: transparent;
   height: 100%;
   width: 100%;
   display: flex;
@@ -38,14 +42,13 @@ title: Art playground
 .circle {
   width: 70vmin;
   height: 70vmin;
-  background: transparent;
+  background: white;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
-*/
 
 .dog {
   position: relative;
