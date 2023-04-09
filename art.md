@@ -22,7 +22,7 @@ title: Art playground
 }
 
 .canvas {
-  background: gold;
+  background: darkgray;
   height: 100vh;
   width: 100vw;
   display: flex;
@@ -34,7 +34,7 @@ title: Art playground
 .circle {
   width: 70vmin;
   height: 70vmin;
-  background: #e8e0ff;
+  background: transparent;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -51,7 +51,7 @@ title: Art playground
   border-top-right-radius: 100px;
   border-bottom: 0;
   box-sizing: border-box;
-  background: #FFDCDF;
+  background: transparent;
 }
 
 .legs {
@@ -66,7 +66,7 @@ title: Art playground
   border-bottom-left-radius: 100px;
   border-bottom-right-radius: 100px;
   border-top: 0;
-  background: #FFDCDF;
+  background: transparent;
 }
 
 .eyes {
