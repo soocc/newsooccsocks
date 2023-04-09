@@ -66,7 +66,7 @@ title: Art playground
   border-bottom-left-radius: 100px;
   border-bottom-right-radius: 100px;
   border-top: 0;
-  background: transparent;
+  background: #000;
 }
 
 .eyes {
