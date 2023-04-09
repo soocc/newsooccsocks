@@ -35,7 +35,7 @@ a {
   position: fixed;
   overflow: hidden;
   top: 0;
-  height: 21px;
+  height: 20px;
   width: 100%;
   margin: 0;
   padding-top: 30px;
@@ -63,7 +63,7 @@ a {
   box-sizing: border-box;
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: 60px;
+  padding-top: 80px;
 }
 
 .m-2 {
