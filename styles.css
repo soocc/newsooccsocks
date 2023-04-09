@@ -87,6 +87,7 @@ a {
 }
 
 #about-link {
+  font-size: 20px;
   color: rgb(9, 26, 178);
   text-decoration: none;
   font-weight: bold;
