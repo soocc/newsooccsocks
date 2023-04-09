@@ -4,7 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-main {
+.main {
   margin-top: 80px;
 }
 
@@ -36,6 +36,7 @@ a {
 
 .menu {
   position: fixed;
+  top: 0;
   height: 21px;
   padding-top: 30px;
   padding-bottom: 50px;
