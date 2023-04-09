@@ -9,10 +9,6 @@ a {
   color: black;
 }
 
-h1 {
-  height: 2em;
-}
-
 .btn {
   text-decoration: none;
   display: block;
@@ -67,7 +63,7 @@ h1 {
   box-sizing: border-box;
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: calc(10% + 80px);
+  padding-top: calc(10% + 60px);
 }
 
 .m-2 {
