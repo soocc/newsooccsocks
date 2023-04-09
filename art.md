@@ -49,24 +49,8 @@ title: Art playground
   height: 30vmin;
   border-top-left-radius: 100px;
   border-top-right-radius: 100px;
-  border-bottom: 0;
   box-sizing: border-box;
   background: transparent;
-}
-
-.legs {
-  display: flex;
-  width: 30vmin;
-}
-
-.legs div {
-  width: 7.5vmin;
-  height: 6vmin;
-  border: 0.5vmin solid black;
-  border-bottom-left-radius: 100px;
-  border-bottom-right-radius: 100px;
-  border-top: 0;
-  background: #000;
 }
 
 .eyes {
