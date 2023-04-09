@@ -109,6 +109,7 @@ a {
 }
 
 .noise{
-  background: rgb(137, 203, 244);
+  /*background: rgb(137, 203, 244);*/
+  background: rgb(137, 244, 144)
   background-image: url(/assets/noise.png);
 }
