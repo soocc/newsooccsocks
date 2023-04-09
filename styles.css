@@ -55,7 +55,6 @@ a {
   font-size: 20px;
   font-weight: bold;
   font-style: italic;
-  color: gold;
   padding-right: 30px;
   transition: opacity 100ms ease-out, margin-top 100ms ease-out;
 }
@@ -86,6 +85,10 @@ a {
 
 .c-black {
   color: black;
+}
+
+.c-gold {
+  color: gold;
 }
 
 .deco-none {
