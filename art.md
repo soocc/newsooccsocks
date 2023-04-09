@@ -3,16 +3,20 @@ layout: default
 title: Art playground
 ---
 
+<!--
 <div class="canvas">
     <div class="circle">
-        <div class="dog">
-            <div class="eyes"></div>
-            <div class="hands"></div>
-            <div class="left-hand"></div>
-            <div class="right-hand"></div>
-            <div class="legs"></div>
-        </div>
     </div>
+</div>
+-->
+
+
+<div class="dog">
+  <div class="eyes"></div>
+  <div class="hands"></div>
+  <div class="left-hand"></div>
+  <div class="right-hand"></div>
+  <div class="legs"></div>
 </div>
 
 <style>
@@ -20,7 +24,7 @@ title: Art playground
   margin: 0;
   padding: 0;
 }
-
+/*
 .canvas {
   background: darkgray;
   height: 100%;
@@ -41,6 +45,7 @@ title: Art playground
   justify-content: center;
   flex-direction: column;
 }
+*/
 
 .dog {
   position: relative;
