@@ -65,7 +65,7 @@ a {
   box-sizing: border-box;
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: calc(10% + 50px);
+  padding-top: calc(10% + 40px);
 }
 
 .m-2 {
