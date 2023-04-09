@@ -23,8 +23,8 @@ title: Art playground
 
 .canvas {
   background: darkgray;
-  height: 100vh;
-  width: 100vw;
+  height: 90vh;
+  width: 90vw;
   display: flex;
   align-items: center;
   justify-content: center;
