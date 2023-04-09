@@ -2,7 +2,10 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  width: 500px;
+}
+
+main {
+  margin-top: 80px;
 }
 
 a {
@@ -32,9 +35,10 @@ a {
 /* Navbar */
 
 .menu {
+  position: fixed;
   height: 21px;
-  margin-top: 30px;
-  margin-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 50px;
   padding-left: 0;
   text-decoration: none;
 }
