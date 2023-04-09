@@ -53,7 +53,9 @@ a {
 /* Padding and Margins */
 
 .m-global {
-  margin-left: 10%;
+  box-sizing: border-box;
+  padding-left: 10%;
+  margin: 0;
 }
 
 .m-2 {
@@ -105,7 +107,7 @@ a {
 /* Default - Default.html */
 
 .container{
-  width: 90%;
+  width: 100%;
   min-height: 33vh;
 }
 
