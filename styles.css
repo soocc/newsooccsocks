@@ -9,6 +9,10 @@ a {
   color: black;
 }
 
+h1 {
+  height: 2em;
+}
+
 .btn {
   text-decoration: none;
   display: block;
