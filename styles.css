@@ -55,6 +55,7 @@ a {
 .m-global {
   box-sizing: border-box;
   padding-left: 10%;
+  padding-right: 10%;
   margin: 0;
 }
 
