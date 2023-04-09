@@ -86,8 +86,10 @@ a {
   font-family: 'Anonymous Pro', monospace;
 }
 
-#gold-link {
-  color: gold;
+#about-link {
+  color: rgb(28, 40, 48);
+  text-decoration: none;
+  font-weight: bold;
 }
 
 /* Default - Default.html */
