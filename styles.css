@@ -43,7 +43,6 @@ a {
   padding-left: 10%;
   text-decoration: none;
   background: rgb(125, 183, 220);
-  box-shadow: 0 3px 15px -15px rgba(0,0,0,0.2);
   border-bottom: solid;
   border-width: thin;
 }
