@@ -13,9 +13,7 @@ title: Art playground
     <div class="mouth">
       <span class="left"></span>
       <span class="right"></span>
-      <p class="tongue"></p>
     </div>
     <div class="nose"></div>
-    <div class="blush"></div>
   </div>
 </div>

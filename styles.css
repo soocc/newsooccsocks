@@ -290,43 +290,6 @@ a {
     -8px -2px #000000;
 }
 
-.tongue {
-  width: 30px;
-  background-color: var(--mouth-red);
-  height: 36px;
-  border-radius: 50% 50% 36% 36%;
-  position: absolute;
-  left: 50%;
-  margin-left: -15px;
-  top: 50px;
-  z-index: 1;
-}
-
-.tongue::before {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 12px;
-  width: 2px;
-  height: 15px;
-  margin-left: -1px;
-  background: rgba(255, 255, 255, 0.1);
-  left: 50%;
-}
-
-.blush{
-  width: 28px;
-  height: 16px;
-  background-color: var(--mouth-red);
-  border-radius: 50%;
-  position: absolute;
-  opacity: .8;
-  top:140px;
-  z-index: 5;
-  left: 36px;
-  box-shadow: 180px 0 var(--mouth-red);
-}
-
 @keyframes blinking {
   0%,
   50%,
